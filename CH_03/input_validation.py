@@ -1,7 +1,7 @@
 # script for collatz function including input validation
 import sys
 
-# defining the function
+# defining the collatz function
 def collatz(number):
 
     if number % 2 == 0:
